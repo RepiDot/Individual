@@ -9,7 +9,7 @@ public class MakeShape_6 {
 		int h = 0;
 		int w = 0;
 		int cnt = 0;
-		int middle = 1;
+		int middle = 0;
 		
 		System.out.print("height = ");
 		h = in.nextInt();

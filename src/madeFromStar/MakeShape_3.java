@@ -10,7 +10,7 @@ public class MakeShape_3 {
 		int w = 0;
 		int cnt = 0;
 		int left = 1;
-		int right;
+		int right = 0;
 		
 		System.out.print("height = ");
 		h = in.nextInt();
